@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SelectionWidgetApp</string>
+    <string-array name="item">
+        <item>Terfavorit</item>
+        <item>Terbaru</item>
+        <item>Top Indo</item>
+        <item>Top Barat</item>
+    </string-array>
+</resources>
